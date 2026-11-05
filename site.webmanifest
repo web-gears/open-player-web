@@ -1,0 +1,21 @@
+{
+  "name": "OpenPlayer",
+  "short_name": "OpenPlayer",
+  "description": "High-fidelity self-hosted music player and collaborative car party jam.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0b0e",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
